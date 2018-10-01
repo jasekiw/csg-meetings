@@ -1,0 +1,32 @@
+# to use an exploit
+msf use exploit_name
+show options
+
+# show the payloads, cmd etc, payload is the way to stay in. the malicious file
+show payloads
+
+# run the exploit
+exploit
+
+host only network config.
+
+# vulnerable webserver
+metasploitable
+
+metasploit is the framework, comes with kali linux.
+
+
+# wrap up payloads into hidden payloads, eg, pdf.
+msfvenom
+
+
+# starts the console
+msfconsole
+# find all exploits for adobe
+search adobe
+
+
+# graph database for metasploit
+armitage
+
+
